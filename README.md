@@ -14,3 +14,5 @@ compile
 run
 
     hama test.ha
+
+![image](https://github.com/xcstream/hama/blob/master/example/run.png)
