@@ -15,4 +15,5 @@ run
 
     hama test.ha
 
+server example
 ![image](https://github.com/xcstream/hama/blob/master/example/run.png)
