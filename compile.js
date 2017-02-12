@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-
 var fs = require('fs')
 
 var arguments = process.argv.splice(2);
