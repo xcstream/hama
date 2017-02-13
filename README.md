@@ -20,7 +20,7 @@ server example
 
 
 run in browser
-`
+
     <script src="path/to/蛤语言.js"></script>
     <script type="text/蛤语言">
         记者香港香港续一秒记者蛤蛤图样记者蛤蛤图样吼啊跑得快蛤图样香港吼啊香港长者香港钦定香港香港香港学习记
@@ -37,4 +37,3 @@ run in browser
         习知识水平知识水平钦定钦定香港提高吼啊提高钦定钦定记者提高图样知识水平大新闻蛤蛤蛤学习图样提高记者跑
         得快
     </script>
-`
