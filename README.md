@@ -19,9 +19,9 @@ server example
 ![image](https://github.com/xcstream/hama/blob/master/example/run.png)
 
 
-run in browser
+run in browser (use utf-8 encoding)
 
-    <script src="https://unpkg.com/hama@1.3.0/蛤语言.js"></script>
+    <script src="https://unpkg.com/hama@1.3.1/蛤语言.js"></script>
     <script type="text/蛤语言">
         记者香港香港续一秒记者蛤蛤图样记者蛤蛤图样吼啊跑得快蛤图样香港吼啊香港长者香港钦定香港香港香港学习记
         者蛤香港跑得快蛤图森破蛤记者钦定香港学习大新闻提高长者钦定香港图森破华莱士图森破续一秒钦定大新闻知识
