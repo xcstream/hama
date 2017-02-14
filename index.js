@@ -11,6 +11,10 @@ var filename = arguments[0]
 var bytecode = fs.readFileSync(filename)
 bytecode = bytecode.toString('utf8')
 
+bytecode =  bytecode.replace(/\t/g,'');
+bytecode =  bytecode.replace(/ /g,'');
+bytecode =  bytecode.replace(/\r\n/g, '');
+bytecode =  bytecode.replace(/\n/g,'');
 bytecode =  bytecode.replace(/图样/g, '0');
 bytecode =  bytecode.replace(/续一秒/g, '1');
 bytecode =  bytecode.replace(/蛤/g, '2');
