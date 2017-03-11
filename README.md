@@ -2,7 +2,6 @@ install
 
     npm i -g hama
 
-
 create file test.js like
 
     console.log('lifetime +1s')
@@ -16,8 +15,8 @@ run
     hama test.ha
 
 server example
-![image](https://github.com/xcstream/hama/blob/master/example/run.png)
 
+![image](https://github.com/xcstream/hama/blob/master/example/run.png)
 
 run in browser (use utf-8 encoding)
 
