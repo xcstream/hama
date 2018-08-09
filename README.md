@@ -16,7 +16,7 @@ https://etherscan.io/token/0x5249a0876c50ef7b8b32635ba636856e5d098b92
     you will get 1000EDC
     作者会发送1000个长者币到此账户
 
-## usage    如何使用
+## usage of halang   如何使用蛤语言
 
 require nodejs>7 需要nodejs>7 版本
 
