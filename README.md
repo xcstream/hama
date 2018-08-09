@@ -1,3 +1,15 @@
+## 送长者币
+    长者币(EDC)是以太坊ERC20代币 总量19260817个  合约地址:
+    https://etherscan.io/token/0x5249a0876c50ef7b8b32635ba636856e5d098b92
+
+如何获得
+
+    1 下载手机以太坊钱包imToken，注册一个账户。
+    2 star 这个项目
+    3 写一个issue，写上 "我要长者币" 和以太坊账户地址
+
+    作者会发送1000个长者币到此账户
+
 install
 
     npm i -g hama
@@ -38,14 +50,3 @@ run in browser (use utf-8 encoding)
     </script>
 
 
-送长者币
-    长者币(EDC)是以太坊ERC20代币 总量19260817个
-    合约地址
-    https://etherscan.io/token/0x5249a0876c50ef7b8b32635ba636856e5d098b92
-
-    如何获得
-    1 下载手机以太坊钱包imToken，注册一个账户。
-    2 star 这个项目
-    3 写一个issue，写上 "我要长者币" 和以太坊账户地址
-
-    作者会发送1000个长者币到此账户
