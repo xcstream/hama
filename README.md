@@ -55,4 +55,4 @@ run in browser (use utf-8 encoding) 在浏览器中运行,(网页编码需要是
         得快
     </script>
 
-
+在线例子 https://xcstream.github.io/achat/
