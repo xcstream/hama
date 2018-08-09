@@ -6,7 +6,8 @@ EDC is an ERC20 token, it's total supply is 19260817, contract address:
 https://etherscan.io/token/0x5249a0876c50ef7b8b32635ba636856e5d098b92
 
     1 install imToken, and get an account
-      下载手机以太坊钱包imToken，注册一个账户
+      下载多链钱包imToken，注册一个账户
+      https://token.im/
     2 star this project
       给这个项目打星
     3 post an issue like 'i want EDC '+ (your eth account address)
