@@ -1,36 +1,44 @@
-## 送长者币
-    长者币(EDC)是以太坊ERC20代币 总量19260817个  合约地址:
+## claim EDC 送长者币活动
+
+    EDC is an ERC20 token, it's totol supply is 19260817, contract address:
+    长者币(EDC)是以太坊ERC20代币 总量19260817个 合约地址:
+
     https://etherscan.io/token/0x5249a0876c50ef7b8b32635ba636856e5d098b92
 
 如何获得
 
-    1 下载手机以太坊钱包imToken，注册一个账户。
-    2 star 这个项目
-    3 写一个issue，写上 "我要长者币" 和以太坊账户地址
 
+    1 install imToken, and get an account
+      下载手机以太坊钱包imToken，注册一个账户
+    2 star this project
+      给这个项目打星
+    3 post an issue like 'i want EDC '+ (your eth account address)
+       写一个issue，写上 "我要长者币" 和以太坊账户地址
+
+    you will get 1000EDC
     作者会发送1000个长者币到此账户
 
-install
+## 如何使用
+require nodejs>7 需要nodejs>7 版本
+
+install 安装
 
     npm i -g hama
 
-create file test.js like
+create file test.js like 创建一个test.js内容如下
 
     console.log('lifetime +1s')
 
-compile
+compile 编译
 
     hamac test.js
 
-run
+run 运行
 
     hama test.ha
 
-server example
 
-![image](https://github.com/xcstream/hama/blob/master/example/run.png)
-
-run in browser (use utf-8 encoding)
+run in browser (use utf-8 encoding) 在浏览器中运行,(网页编码需要utf-8)
 
     <script src="https://unpkg.com/hama@1.3.1/蛤语言.js"></script>
     <script type="text/蛤语言">
