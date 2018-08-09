@@ -1,6 +1,6 @@
 ## claim EDC    送长者币活动
 
-EDC is an ERC20 token, it's totol supply is 19260817, contract address:
+EDC is an ERC20 token, it's total supply is 19260817, contract address:
 长者币(EDC)是以太坊ERC20代币 总量19260817个 合约地址:
 
 https://etherscan.io/token/0x5249a0876c50ef7b8b32635ba636856e5d098b92
