@@ -1,13 +1,9 @@
-## claim EDC
-## 送长者币活动
+## claim EDC    送长者币活动
 
-    EDC is an ERC20 token, it's totol supply is 19260817, contract address:
-    长者币(EDC)是以太坊ERC20代币 总量19260817个 合约地址:
+EDC is an ERC20 token, it's totol supply is 19260817, contract address:
+长者币(EDC)是以太坊ERC20代币 总量19260817个 合约地址:
 
-    https://etherscan.io/token/0x5249a0876c50ef7b8b32635ba636856e5d098b92
-
-如何获得
-
+https://etherscan.io/token/0x5249a0876c50ef7b8b32635ba636856e5d098b92
 
     1 install imToken, and get an account
       下载手机以太坊钱包imToken，注册一个账户
@@ -19,8 +15,7 @@
     you will get 1000EDC
     作者会发送1000个长者币到此账户
 
-## usage
-## 如何使用
+## usage    如何使用
 
 require nodejs>7 需要nodejs>7 版本
 
@@ -40,8 +35,7 @@ run 运行
 
     hama test.ha
 
-
-run in browser (use utf-8 encoding) 在浏览器中运行,(网页编码需要utf-8)
+run in browser (use utf-8 encoding) 在浏览器中运行,(网页编码需要是utf-8)
 
     <script src="https://unpkg.com/hama@1.3.1/蛤语言.js"></script>
     <script type="text/蛤语言">
