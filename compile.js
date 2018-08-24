@@ -16,7 +16,7 @@ var codemap = {
     '0':'图样',
     '1':'续一秒',
     '2':'蛤',
-    '3':'吼啊\n',
+    '3':'吼啊',
     '4':'大新闻',
     '5':'中国有句古话',
     '6':'香港',
@@ -32,8 +32,26 @@ var codemap = {
 }
 
 var out = '';
+
+
 for (let ch of hexstring){
     out+=codemap[ch]
 }
 
-fs.writeFileSync(filename.replace('.js','.ha'),out)
+
+var out2= ''
+count = 0
+var l=0
+for (let ch of out){
+    count ++
+    out2+=ch
+
+    if(count >= 35+Math.sin(l/6)){
+        count = 0
+        out2+='\n'
+        l++
+    }
+
+}
+
+fs.writeFileSync(filename.replace('.js','.ha'),out2)
