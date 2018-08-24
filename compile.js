@@ -46,7 +46,7 @@ for (let ch of out){
     count ++
     out2+=ch
 
-    if(count >= 35+Math.sin(l/6)){
+    if(count >= 35+15*Math.sin(l/4)){
         count = 0
         out2+='\n'
         l++
