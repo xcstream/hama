@@ -38,7 +38,11 @@ run in browser (use utf-8 encoding) 在浏览器中运行,(网页编码需要是
     </script>
 
 在线例子:
+
  尬聊，打开多个静态网页可以群发消息
+
  https://xcstream.github.io/achat/
+ 
  8位数字的md5解密
+ 
  https://xcstream.github.io/md5store/
