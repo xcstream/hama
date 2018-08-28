@@ -1,22 +1,4 @@
-## claim EDC    送长者币活动
-
-EDC is an ERC20 token, it's total supply is 19260817, contract address:
-长者币(EDC)是以太坊ERC20代币 总量19260817个 合约地址:
-
-https://etherscan.io/token/0x5249a0876c50ef7b8b32635ba636856e5d098b92
-
-    1 install imToken, and get an account
-      下载多链钱包imToken，注册一个账户
-      https://token.im/
-    2 star this project
-      给这个项目打星
-    3 post an issue like 'i want EDC '+ (your eth account address)
-      写一个issue，写上 "我要长者币" 和以太坊账户地址
-
-    you will get 1000EDC
-    作者会发送1000个长者币到此账户
-
-## usage of halang   如何使用蛤语言
+# usage of halang   如何使用蛤语言
 
 require nodejs>7 需要nodejs>7 版本
 
