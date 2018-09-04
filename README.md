@@ -1,24 +1,24 @@
-# usage of halang   如何使用蛤语言
+# usage of halang  [如何使用蛤语言]
 
-require nodejs>7 需要nodejs>7 版本
+require nodejs>7 [需要nodejs>7 版本]
 
-install 安装
+install [安装]
 
     npm i -g hama
 
-create file test.js like 创建一个test.js内容如下
+create file test.js like [创建一个test.js内容如下]
 
     console.log('lifetime +1s')
 
-compile 编译
+compile [编译]
 
     hamac test.js
 
-run 运行
+run [运行]
 
     hama test.ha
 
-run in browser (use utf-8 encoding) 在浏览器中运行,(网页编码需要是utf-8)
+run in browser (use utf-8 encoding) [在浏览器中运行,(网页编码需要是utf-8)]
 
     <script src="https://unpkg.com/hama@1.3.1/蛤语言.js"></script>
     <script type="text/蛤语言">
