@@ -44,13 +44,4 @@ run in browser (use utf-8 encoding) [在浏览器中运行,(网页编码需要�
         得快
     </script>
 
-在线例子:
- 
- js做题的网页
- 
- https://xcstream.github.io/junkjsproblem
 
- 
- 8位数字的md5解密
- 
- https://xcstream.github.io/md5store/
